@@ -16,7 +16,7 @@ Some of My Hardware Specification
 You can get Android-x86 Source at http://www.android-x86.org/getsourcecode
 and apply my patch and driver before build.
 
-# How to Test My Image After Build
+# How to Test You Image?
 1. After you build android image, you will get android-x86.iso and extract them to your usb flash drive.
 2. On your Acer Tablet you need to disable secure boot and set boot priority to flash drive.
 3. Turn off your tablet and plug in usb flash driver and turn on again
