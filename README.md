@@ -19,9 +19,9 @@ and apply my patch and driver before build.
 # How to Test You Image?
 1. After you build android image, you will get android-x86.iso and extract them to your usb flash drive.
 2. On your Acer Tablet you need to disable secure boot and set boot priority to flash drive.
-3. Turn off your tablet and plug in usb flash driver and turn on again
-4. You will see grub screen and enjoy android-x86 in your acer aspire switch 10
+3. Turn off your tablet and plug in usb flash driver and turn on again.
+4. You will see grub screen and enjoy android-x86 in your acer aspire switch 10.
 
 
 # How to Install to my tablet permanently?
-Install instruction coming soon
+Install instruction coming soon.
